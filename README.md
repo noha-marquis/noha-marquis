@@ -1,16 +1,36 @@
-## Hi there 👋
+# Noha Marquis
 
-<!--
-**noha-marquis/noha-marquis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst Junior — étudiant en BUT Sciences des données (parcours VCOD)**
+IUT Grand Ouest Normandie · Université de Caen
 
-Here are some ideas to get you started:
+Je transforme des données brutes en analyses et tableaux de bord utiles à la décision.
+Je recherche un **stage de data analyst de 10 semaines à partir de février 2027** (Normandie / région toulousaine, mobile).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Compétences
+
+- **Langages & bases de données** — SQL, Python, R
+- **Python** — pandas, numpy, matplotlib · automatisation de traitements et export Excel
+- **Data visualisation & BI** — Power BI, reporting
+- **Bureautique** — Pack Office, Excel avancé (TCD, Power Query)
+- **Outils** — VS Code, Git, LaTeX
+
+---
+
+## Projets
+
+| Projet | Ce que ça montre | Outils |
+|---|---|---|
+| **[Analyse de données appliquée au jeu vidéo]([lien-du-dépôt])** | Collecte, nettoyage et visualisation de données | SQL, ... |
+| **[Analyse des ventes — SuperStore]([lien-du-dépôt])** | Indicateurs clés et tableaux de bord décisionnels | R, LaTeX, MARP |
+| **[Enquête statistique sur l'usage de l'IA au lycée]([lien-du-dépôt])** | Analyse d'une enquête (125 répondants × ~20 variables) | R, LaTeX, MARP |
+
+> Clique sur un projet pour voir le détail, la démarche et les visualisations.
+
+---
+
+## Me contacter
+
+- LinkedIn — [linkedin.com/in/noha-marquis-bb2108314](https://www.linkedin.com/in/noha-marquis-bb2108314)
+- E-mail — marquis.noha@gmail.com
