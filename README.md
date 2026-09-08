@@ -20,7 +20,7 @@ Je recherche un **stage de data analyst de 10 semaines à partir du 29 mars 2027
 
 ## Projets
 
-| Projet | Ce que ça montre | Outils |
+| Projet | Ce que ça montre | Outils | Type projet
 |---|---|---|---|
 | **[Analyse de données appliquée au jeu vidéo](https://github.com/noha-marquis/nova-clash-data-analysis)** | Création d'indicateurs, visualisation | SQL, PowerBI | Projet personnel
 | **[Analyse des ventes — SuperStore]([lien-du-dépôt])** | Indicateurs clés et tableaux de bord décisionnels | R, LaTeX, MARP | Projet académique
