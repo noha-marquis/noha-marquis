@@ -4,7 +4,7 @@
 IUT Grand Ouest Normandie · Université de Caen
 
 Je transforme des données brutes en analyses et tableaux de bord utiles à la décision.
-Je recherche un **stage de data analyst de 10 semaines à partir de février 2027** (Normandie / région toulousaine, mobile).
+Je recherche un **stage de data analyst de 10 semaines à partir du 29 mars 2027** (France, Europe).
 
 ---
 
